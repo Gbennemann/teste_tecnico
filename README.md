@@ -50,7 +50,7 @@ Notificar os profissionais sobre novos agendamentos.
 ## 3.2 Requisitos Não Funcionais:
 RNF001 - Desempenho:
 
-O sistema deve suportar um mínimo de 100 agendamentos diários.
+O sistema deve suportar um mínimo de 500 agendamentos diários.
 
 RNF002 - Segurança:
 
