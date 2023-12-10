@@ -111,6 +111,6 @@ Lançamento do módulo em ambiente de produção.
 
 
 ## 7. Considerações Finais
-Este documento serve como guia para a execução bem-sucedida do projeto. A comunicação assertiva entre as equipes de desenvolvimento, testes e é essêncial para garantir a qualidade e eficiência do resultado final.
+Este documento serve como guia para a execução bem-sucedida do projeto. A comunicação assertiva entre as equipes de desenvolvimento, testes e é essencial para garantir a qualidade e eficiência do resultado final.
 
 Quaisquer mudanças significativas no escopo, requisitos ou cronograma devem ser comunicadas e discutidas nas reuniões de acompanhamento do projeto.
