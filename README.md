@@ -104,10 +104,10 @@ Lançamento do módulo em ambiente de produção.
 ## 6.2 Cronograma:
 | Fase             | Início       | Término      |
 |------------------|--------------|--------------|
-| Planejamento     | 01/03/2023   | 15/03/2023   |
-| Desenvolvimento  | 16/03/2023   | 30/04/2023   |
-| Testes           | 01/05/2023   | 15/05/2023   |
-| Implantação      | 16/05/2023   | 31/05/2023   |
+| Planejamento     | 01/02/2023   | 15/02/2023   |
+| Desenvolvimento  | 16/02/2023   | 30/03/2023   |
+| Testes           | 01/04/2023   | 15/04/2023   |
+| Implantação      | 16/04/2023   | 31/04/2023   |
 
 
 ## 7. Considerações Finais
